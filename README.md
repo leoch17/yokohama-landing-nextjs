@@ -1,7 +1,7 @@
 # 🏎️ Yokohama Landing Page - Next.js
 
 <p align="center">
-  <img src="./captures/principal-capture.png" alt="Yokohama Landing Preview" width="100%">
+  <img src="public/captures/principal-capture.png" alt="Yokohama Landing Preview" width="100%">
 </p>
 
 <p align="center">
@@ -36,15 +36,15 @@ El objetivo principal de este proyecto es modernizar la presencia digital de una
 ## 📸 Capturas de Pantalla
 
 <p align="center">
-  <img src="./captures/capture-1.png" alt="Desktop View" width="45%">
-  <img src="./captures/capture-2.png" alt="Desktop View" width="45%">
-  <img src="./captures/capture-3.png" alt="Desktop View" width="45%">
-  <img src="./captures/capture-4.png" alt="Desktop View" width="45%">
-  <img src="./captures/capture-moible-1.png" alt="Mobile View" width="20%">
-  <img src="./captures/capture-moible-2.png" alt="Mobile View" width="20%">
-  <img src="./captures/capture-moible-3.png" alt="Mobile View" width="20%">
-  <img src="./captures/capture-moible-4.png" alt="Mobile View" width="20%">
-  <img src="./captures/capture-moible-5.png" alt="Mobile View" width="20%">
+  <img src="public/captures/capture-1.png" alt="Desktop View" width="45%">
+  <img src="public/captures/capture-2.png" alt="Desktop View" width="45%">
+  <img src="public/captures/capture-3.png" alt="Desktop View" width="45%">
+  <img src="public/captures/capture-4.png" alt="Desktop View" width="45%">
+  <img src="public/captures/capture-moible-1.png" alt="Mobile View" width="20%">
+  <img src="public/captures/capture-moible-2.png" alt="Mobile View" width="20%">
+  <img src="public/captures/capture-moible-3.png" alt="Mobile View" width="20%">
+  <img src="public/captures/capture-moible-4.png" alt="Mobile View" width="20%">
+  <img src="public/captures/capture-moible-5.png" alt="Mobile View" width="20%">
 </p>
 
 ## ⚙️ Instalación y Uso
