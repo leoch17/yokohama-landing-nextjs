@@ -40,11 +40,11 @@ El objetivo principal de este proyecto es modernizar la presencia digital de una
   <img src="public/captures/capture-2.png" alt="Desktop View" width="45%">
   <img src="public/captures/capture-3.png" alt="Desktop View" width="45%">
   <img src="public/captures/capture-4.png" alt="Desktop View" width="45%">
-  <img src="public/captures/capture-moible-1.png" alt="Mobile View" width="20%">
-  <img src="public/captures/capture-moible-2.png" alt="Mobile View" width="20%">
-  <img src="public/captures/capture-moible-3.png" alt="Mobile View" width="20%">
-  <img src="public/captures/capture-moible-4.png" alt="Mobile View" width="20%">
-  <img src="public/captures/capture-moible-5.png" alt="Mobile View" width="20%">
+  <img src="public/captures/capture-mobile-1.png" alt="Mobile View" width="20%">
+  <img src="public/captures/capture-mobile-2.png" alt="Mobile View" width="20%">
+  <img src="public/captures/capture-mobile-3.png" alt="Mobile View" width="20%">
+  <img src="public/captures/capture-mobile-4.png" alt="Mobile View" width="20%">
+  <img src="public/captures/capture-mobile-5.png" alt="Mobile View" width="20%">
 </p>
 
 ## ⚙️ Instalación y Uso
