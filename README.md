@@ -1,36 +1,83 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🏎️ Yokohama Landing Page - Next.js
 
-## Getting Started
+<p align="center">
+  <img src="./captures/principal-capture.png" alt="Yokohama Landing Preview" width="100%">
+</p>
 
-First, run the development server:
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Deploy">
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<p align="center">
+  <a href="URL_DE_TU_DEMO_EN_VIVO">🌐 Ver Demo en Vivo</a>
+</p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📝 Descripción
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Este proyecto es una landing page moderna y de alto rendimiento para la marca de neumáticos Yokohama. Ha sido desarrollada utilizando Next.js para optimización de renderizado y SEO, enfocándose en la presentación de productos premium, tecnología y la herencia de la marca en el automovilismo. El diseño es _fully responsive_, adaptándose a dispositivos móviles y escritorio.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🚀 Problema que Resuelve
 
-## Learn More
+El objetivo principal de este proyecto es modernizar la presencia digital de una marca establecida. Resuelve la necesidad de:
 
-To learn more about Next.js, take a look at the following resources:
+- **Mejorar el SEO y la Velocidad de Carga:** Usando _Server-Side Rendering_ (SSR) o _Static Site Generation_ (SSG) de Next.js para un mejor posicionamiento en buscadores.
+- **Presentación de Producto Impactante:** Una interfaz visualmente rica que resalta la calidad y tecnología de los neumáticos.
+- **Modernización de Marca:** Una estética limpia y ágil que alinea la imagen digital con la calidad percibida de los productos Yokohama.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🛠️ Stack Tecnológico
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- **Framework:** [Next.js](https://nextjs.org/) (React)
+- **Estilos:** [Tailwind CSS](https://tailwindcss.com/)
+- **Despliegue:** [Vercel](https://vercel.com/)
 
-## Deploy on Vercel
+## 📸 Capturas de Pantalla
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<p align="center">
+  <img src="./captures/capture-1.png" alt="Desktop View" width="45%">
+  <img src="./captures/capture-2.png" alt="Desktop View" width="45%">
+  <img src="./captures/capture-3.png" alt="Desktop View" width="45%">
+  <img src="./captures/capture-4.png" alt="Desktop View" width="45%">
+  <img src="./captures/capture-moible-1.png" alt="Mobile View" width="20%">
+  <img src="./captures/capture-moible-2.png" alt="Mobile View" width="20%">
+  <img src="./captures/capture-moible-3.png" alt="Mobile View" width="20%">
+  <img src="./captures/capture-moible-4.png" alt="Mobile View" width="20%">
+  <img src="./captures/capture-moible-5.png" alt="Mobile View" width="20%">
+</p>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## ⚙️ Instalación y Uso
+
+Si deseas correr este proyecto localmente, sigue estos pasos:
+
+1.  **Clonar el repositorio:**
+    ```bash
+    git clone [https://github.com/leoch17/yokohama-landing-nextjs.git](https://github.com/leoch17/yokohama-landing-nextjs.git)
+    cd yokohama-landing-nextjs
+    ```
+2.  **Instalar dependencias:**
+    ```bash
+    npm install
+    # o
+    yarn install
+    # o
+    pnpm install
+    ```
+3.  **Configurar variables de entorno (si aplica):**
+    Crea un archivo `.env.local` basado en `.env.example`.
+4.  **Correr el servidor de desarrollo:**
+    ```bash
+    npm run dev
+    ```
+5.  Abre [http://localhost:3000](http://localhost:3000) en tu navegador.
+
+---
+
+Desarrollado por [Leonardo Chourio](https://github.com/leoch17)
+
+## Implementación en Vercel
+
+La forma más sencilla de implementar tu aplicación Next.js es utilizar la [plataforma Vercel](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme), creada por los desarrolladores de Next.js.
+
+Consulte nuestra [documentación sobre la implementación de Next.js](https://nextjs.org/docs/app/building-your-application/deploying) para obtener más detalles.
