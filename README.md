@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="URL_DE_TU_DEMO_EN_VIVO">🌐 Ver Demo en Vivo</a>
+  <a href="https://yokohama-landing-nextjs.vercel.app/">🌐 Ver Demo en Vivo</a>
 </p>
 
 ## 📝 Descripción
